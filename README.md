@@ -9,4 +9,5 @@ Studying the morphological development of cartilaginous and osseous structures i
 Full paper:
 https://arxiv.org/pdf/2402.03695.pdf
 
-** The code for the paper published in ISBI2024 will be published soon.
+** The code for the paper published in ISBI2024 will be published soon. E-mail the author (nsapkota@nd.edu), if you want access to the codebase for your immediate project. 
+
